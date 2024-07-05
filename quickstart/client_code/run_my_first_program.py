@@ -33,7 +33,7 @@ async def main():
 
     # 3. Pay for and store the program
     # Set the program name and path to the compiled program
-    program_name = "secret_computation_complete"
+    program_name = "run_my_first_program"
     program_mir_path = f"../nada_quickstart_programs/target/{program_name}.nada.bin"
 
     # Check if the compiled program exists
